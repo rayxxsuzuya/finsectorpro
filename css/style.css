@@ -4280,7 +4280,7 @@ a.experts__item {
  }
 
  .contacts-section__grid {
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr;
   }
 
   .main-compare__grid {
